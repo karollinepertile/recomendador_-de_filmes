@@ -47,7 +47,7 @@ function geraRecomendacao(idade, gostaDeFantasia, gostaDeAventura) {
     if (gostaDeFantasia) {
       return " ";
     } else {
-      return "O feitiço do tempo";
+      return " aliçe no pais das maravilhas";
     }
   }
 }
